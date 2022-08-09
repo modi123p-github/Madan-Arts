@@ -1,1 +1,44 @@
+Student Club activity
+https://data.world/atlas-query/student-club/workspace/project-summary?agentid=atlas-query&datasetid=student-club
 
+Soccer
+https://data.world/data-society/european-soccer-data/workspace/project-summary?agentid=data-society&datasetid=european-soccer-data
+
+COVID Activity
+https://data.world/covid-19-data-resource-hub/covid-19-case-counts/workspace/file?filename=COVID-19+Activity.csv
+
+CORONA Virus -Daily Data
+https://data.world/markmarkoh/coronavirus-data 
+Fin new cases, deaths by day, total active cases in the day ..etc
+
+
+Global Climate Change Data
+https://data.world/data-society/global-climate-change-data/workspace/project-summary?agentid=data-society&datasetid=global-climate-change-data
+
+
+Travel Time Uber Movement
+https://data.world/rmiller107/travel-time-uber-movement
+
+Traffic Data -Cit of Bloomington
+https://data.world/city-of-bloomington/117733fb-31cb-480a-8b30-fbf425a690cd
+
+
+WhatsgoodlyData - Social Influence on Shopping summary
+https://data.world/ahalps/social-influence-on-shopping/workspace/project-summary?agentid=ahalps&datasetid=social-influence-on-shopping
+
+
+Netflix Shows
+https://data.world/chasewillden/netflix-shows/workspace/project-summary?agentid=chasewillden&datasetid=netflix-shows
+
+Amazon Ecommerce-sample - Fashion products
+https://data.world/promptcloud/fashion-products-on-amazon-com/workspace/project-summary?agentid=promptcloud&datasetid=fashion-products-on-amazon-com
+
+Electronic Products Pricing Data
+https://data.world/datafiniti/electronic-products-and-pricing-data
+
+
+Nutrition Diet
+https://data.world/adamhelsinger/food-nutrition-information
+
+Whatsgoodly - Thought Catalog Influencers
+https://data.world/ahalps/online-influencer-marketing
